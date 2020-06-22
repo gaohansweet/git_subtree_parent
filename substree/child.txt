@@ -1,1 +1,2 @@
 git_subtree_child
+child2
